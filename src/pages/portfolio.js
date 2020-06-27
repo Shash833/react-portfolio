@@ -35,7 +35,7 @@ function Portfolio() {
             setDropdownLabel(tech)
         }
     }
-    // {{ span: 9, offset: 1 }}
+
     //Portfolio page component
     return <Container>
         <Row>
