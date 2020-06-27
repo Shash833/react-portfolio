@@ -1,0 +1,21 @@
+h1 {
+    font-family: 'Cedarville Cursive', cursive;
+    color: white;
+    text-align: center ;
+    font-size: 50px;
+}
+
+.jumbotron { 
+margin-bottom: 50px;
+padding-bottom: 20px;
+background-color: rgb(80, 140, 145);
+}
+
+.navbar-nav {
+    float:none;
+    margin:0 auto;
+    text-align: center;
+    background-color: rgb(80, 140, 145);
+    color:White;
+    font-size: 20px;
+}
