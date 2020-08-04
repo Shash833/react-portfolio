@@ -133,5 +133,35 @@
         "MongoDB": false,
         "Handlebars.js": false,
         "React.js": true
+    },
+    {
+        "title": "Google Book Search",
+        "image": "https://raw.githubusercontent.com/Shash833/google-book-search/master/client/assets/searchView.PNG",
+        "description": "This full stack application was created using the MERN stack coupled with Google Books API and allows the user to search for books and save them to a list of 'Saved Books'. Creating this application allowed me to develop a better understanding of working with this particular tech stack.",
+        "link": "https://majestic-grand-canyon-69051.herokuapp.com/",
+        "github": "https://github.com/Shash833/google-book-search",
+        "Vanilla Javascript": false,
+        "JQuery": false,
+        "Node.js": true,
+        "Express.js": true,
+        "MySQL": false,
+        "MongoDB": true,
+        "Handlebars.js": false,
+        "React.js": true
+    },
+    {
+        "title": "Wound Manager",
+        "image": "https://raw.githubusercontent.com/Shash833/Project-3/master/assets/assessment-page.PNG",
+        "description": "This was my first application created after learning how to create websites using React.js and it allowed me to develop an understanding of the basic fundamentals of React. The application presents a list of employees which can be sorted or filtered by a criteria of the user's choice.",
+        "link": "https://lit-reaches-59072.herokuapp.com/",
+        "github": "https://github.com/Shash833/Project-3",
+        "Vanilla Javascript": false,
+        "JQuery": false,
+        "Node.js": true,
+        "Express.js": true,
+        "MySQL": true,
+        "MongoDB": false,
+        "Handlebars.js": false,
+        "React.js": true
     }
 ]
