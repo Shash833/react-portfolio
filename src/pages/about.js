@@ -26,12 +26,6 @@ function AboutMe() {
                     I am currently working as a podiatrist, in my fifth year of practice, after completing a Bachelor of Health Sciences and Master in Podiatric Practice in 2015.
                     In my spare time I enjoy cooking, reading, board games and travelling.
                 </p>
-                <p><b>Extra information:</b></p>
-                <p><a href={resume}>Current resume (pdf)</a></p>
-                <p>Git Hub: <a href="https://github.com/Shash833">https://github.com/Shash833</a> </p>
-                <p>LinkedIn: <a
-                    href="https://www.linkedin.com/in/shashini-mayadunne/">https://www.linkedin.com/in/shashini-mayadunne</a>
-                </p>
             </Column>
         </Row>
     </Container>
