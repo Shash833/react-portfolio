@@ -5,7 +5,6 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: rgb(228, 228, 228);
 }
 
 code {
@@ -16,4 +15,8 @@ code {
 #portfolioText, .dropdown{
   padding-left: 35px;
   padding-right: 100px;
+}
+
+#contact-info{
+  margin: 50px;
 }

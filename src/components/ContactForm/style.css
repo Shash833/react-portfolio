@@ -1,11 +1,11 @@
 .formHeading{
-  margin: auto;
+  margin: 30px;
 }
 
 input,
 textarea {
   display: block;
-  margin: 12px auto;
+  margin: 30px;
   width: 100%;
   max-width: 480px;
   border: 1px solid #555;
@@ -20,7 +20,7 @@ textarea{
 }
 .form>a {
   display: block;
-  margin: auto;
+  margin: 30px;
   width: 120px;
   height: 50px;
   line-height: 50px;
