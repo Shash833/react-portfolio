@@ -11,6 +11,12 @@ function Contact() {
             <Title>Contact</Title>
         </Row>
         <Row>
+        <p><b>Email:</b> shashini.mayadunne@gmail.com </p>
+        <p>Git Hub: <a target = "_blank" href="https://github.com/Shash833">https://github.com/Shash833</a> </p>
+        <p>LinkedIn: <a target = "_blank" href="https://www.linkedin.com/in/shashini-mayadunne/">https://www.linkedin.com/in/shashini-mayadunne</a>
+        </p>
+        </Row>
+        <Row>
             <p className="formHeading">Please email any enquiries through this form and I will respond as soon as possible.
             </p>
         </Row>
