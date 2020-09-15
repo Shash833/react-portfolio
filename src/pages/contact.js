@@ -10,7 +10,7 @@ function Contact() {
         <Row>
             <Title>Contact</Title>
         </Row>
-        <hr></hr>
+        <hr />
         <Row>
             <div id="contact-info">
                 <p><b>Email:</b> shashini.mayadunne@gmail.com </p>
@@ -19,7 +19,7 @@ function Contact() {
                 </p>
             </div>
         </Row>
-        <hr></hr>
+        <hr />
         <p className="formHeading"><b>Please email any enquiries through this form and I will respond as soon as possible:</b>
         </p>
         <ContactForm />

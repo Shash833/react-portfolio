@@ -5,7 +5,6 @@ import Column from "../components/Column"
 import Title from "../components/Title"
 import Image from "../components/Image"
 import photo from "../assets/images/Shashini.jpg"
-import resume from "../assets/Resume.pdf"
 
 function AboutMe() {
     //'About Me' page component
@@ -13,6 +12,7 @@ function AboutMe() {
         <Row>
             <Title>About Me</Title>
         </Row>
+        <hr />
         <Row>
             <Column size={4}>
                 <Image src={photo} />

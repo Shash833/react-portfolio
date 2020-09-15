@@ -41,9 +41,11 @@ function Portfolio() {
         <Row>
             <Title>Portfolio</Title>
         </Row>
+        <hr />
         <Row>
             <p id="portfolioText"> During my time studying Full-Stack Web Development in the Coding Bootcamp, I have developed skills in creating websites using a variety of technologies including Javascript, JQuery, Node.js, Express.js, MySQL, MongoDB, Handlebars.js and React.js.
-                    <br />The projects displayed on this page showcase the technical skills I have learnt and working on these projects allowed me to develop a more in depth understanding of web development and build skills in tackling problems encountered.</p>
+            <br />
+            The projects displayed on this page showcase the technical skills I have learnt and working on these projects allowed me to develop a more in depth understanding of web development and build skills in tackling problems encountered.</p>
         </Row>
         <Row>
             <Dropdown label={dropdownLabel} filter={filterTech} array={["Vanilla Javascript", "JQuery", "Node.js", "Express.js", "MySQL", "MongoDB", "Handlebars.js", "React.js", "All"]} />
