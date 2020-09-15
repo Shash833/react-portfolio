@@ -6,7 +6,7 @@ import Image from "../Image"
 import "./style.css";
 
 
-function Alerts({ title, image, description, github, link }) {
+function Alerts({ title, image, description, technologies, github, link }) {
     return <Alert variant="secondary">
         <Row>
             <Column size={3}>
@@ -17,8 +17,9 @@ function Alerts({ title, image, description, github, link }) {
                 <p>
                     {description}
                 </p>
-                <p><b>Git-Hub: </b><a href={github}>{github}</a></p>
-                <p><b>Link: </b><a href={link === "N/A" ? false : link}>{link}</a></p>
+                <p><b>Technologies: </b> {technologies}</p>
+                <p><b>Git-Hub: </b><a target="_blank" rel="noopener noreferrer" href={github}>{github}</a></p>
+                <p><b>Link: </b><a target="_blank" rel="noopener noreferrer" href={link === "N/A" ? false : link}>{link}</a></p>
             </Column>
         </Row>
     </Alert>

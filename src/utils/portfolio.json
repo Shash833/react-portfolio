@@ -50,7 +50,7 @@
     {
         "title": "Eat-Da-Burger",
         "image": "https://shash833.github.io/Shashini-s-Portfolio/assets/images/eat-da-burger.PNG",
-        "description": "This full-stack website has been deployed on Heroku and was created to demonstrate the use of Node.js, Express.js, Express Handlebars and MySQL. The user may add a burger to a list of burgers they wish to consume or have already consumed.",
+        "description": "This full-stack website has been deployed on Heroku and was created to demonstrate the ability to create a full stack website using Handlebars.js and MySQL. The user may add a burger to a list of burgers they wish to consume or have already consumed.",
         "technologies": "Javascript, Node.js, Express.js, MySQL, Handlebars.js",
         "link": "https://shielded-ocean-50015.herokuapp.com/",
         "github": "https://github.com/Shash833/Eat-Da-Burger",
@@ -130,7 +130,7 @@
     {
         "title": "Weather Dashboard",
         "image": "https://shash833.github.io/Shashini-s-Portfolio/assets/images/Weather-dashboard.PNG",
-        "description": "This application allows the user to view the current weather and a 5 day forecast for their chosen city. The information is retreived from 'OpenWeatherMap API' using JQuery AJAX methods. Technologies used to create this application include HTML, CSS, Javascript, JQuery and Local Storage ",
+        "description": "This application allows the user to view the current weather and a 5 day forecast for their chosen city and keep track of search history. The information is retreived from 'OpenWeatherMap API' using JQuery AJAX methods. User search history is saved on Local Storage. ",
         "technologies": "Javascript, JQuery",
         "link": "https://shash833.github.io/Weather-Dashboard/",
         "github": "https://github.com/Shash833/Weather-Dashboard",

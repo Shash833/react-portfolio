@@ -51,11 +51,12 @@ function Portfolio() {
             <Dropdown label={dropdownLabel} filter={filterTech} array={["Vanilla Javascript", "JQuery", "Node.js", "Express.js", "MySQL", "MongoDB", "Handlebars.js", "React.js", "All"]} />
         </Row>
         <Row>
-            {portfolio.portfolio.map(({ image, title, description, github, link }) => (
+            {portfolio.portfolio.map(({ image, title, description, technologies, github, link }) => (
                 <PortfolioItemsContainer
                     image={image}
                     title={title}
                     description={description}
+                    technologies={technologies}
                     github={github}
                     link={link} />
             ))}</Row>

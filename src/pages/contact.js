@@ -14,8 +14,8 @@ function Contact() {
         <Row>
             <div id="contact-info">
                 <p><b>Email:</b> shashini.mayadunne@gmail.com </p>
-                <p><b>Git Hub: </b><a target="_blank" href="https://github.com/Shash833">https://github.com/Shash833</a> </p>
-                <p><b>LinkedIn:</b> <a target="_blank" href="https://www.linkedin.com/in/shashini-mayadunne/">https://www.linkedin.com/in/shashini-mayadunne</a>
+                <p><b>Git Hub: </b><a target="_blank" rel="noopener noreferrer" href="https://github.com/Shash833">https://github.com/Shash833</a> </p>
+                <p><b>LinkedIn:</b> <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/shashini-mayadunne/">https://www.linkedin.com/in/shashini-mayadunne</a>
                 </p>
             </div>
         </Row>
