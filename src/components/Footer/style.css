@@ -4,5 +4,6 @@ footer {
     height: 40px;
     text-align: center;
     color: rgb(170, 196, 202);
+    padding-top: 5px;
     margin-top: 50px;
 }
