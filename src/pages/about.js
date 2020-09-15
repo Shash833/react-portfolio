@@ -25,7 +25,7 @@ function AboutMe() {
                 </p>
                     <p>
                         I am currently working as a podiatrist, in my fifth year of practice, after completing a Bachelor of Health Sciences and Master in Podiatric Practice in 2015.
-                        In my spare time I enjoy cooking, reading, board games and travelling.
+                        In my spare time I enjoy cooking, reading, playing board games and travelling.
                 </p>
                 </div>
 

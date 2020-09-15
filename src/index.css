@@ -12,6 +12,18 @@ code {
     monospace;
 }
 
+/* #about-me-container{
+  position: relative;
+} */
+
+#about-me{
+  text-align: justify;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  height: 300px;
+}
+
 #portfolioText, .dropdown{
   padding-left: 35px;
   padding-right: 100px;
@@ -19,4 +31,15 @@ code {
 
 #contact-info{
   margin: 50px;
+}
+
+@media screen and (min-width: 1199px) {
+  #about-me{
+    text-align: justify;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 400px;
+    width: 80%;
+  }
 }
